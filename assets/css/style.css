@@ -1,0 +1,104 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+}
+
+.logo {
+    height: 50px;
+}
+
+.navbar {
+    background-color: #28A745;
+}
+
+.nav-link.active {
+    color: #fff !important;
+    font-weight: 500;
+    
+}
+
+.container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.card-body {
+    padding-bottom: 0;
+}
+
+.card-title {
+    font-weight: 300 !important;
+    color: #212529
+}
+
+.list-group-item {
+    font-weight: 300;
+    color: #707070;
+    border: none;
+}
+
+.list-group.list-group-flush {
+    border-bottom: none;
+    border-top: none;
+}
+
+.list-group-item.price {
+    text-align: right;
+}
+
+hr {
+    margin: 16px 16px;
+}
+.price-before {
+    text-decoration: line-through;
+}
+
+.price-now {
+    font-weight: 500;
+    color: #28A745;
+    font-size: 1.25em;
+}
+
+.footer-contact {
+    background-color: #28A745;
+}
+
+.footer-title {
+    color: #fff;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 20px 0;
+}
+
+.footer-form {
+    width: 83%;
+    margin: auto;
+
+}
+
+.col-auto.button-submit {
+    margin: 8px auto;
+}
+
+.btn.btn-primary {
+    background-color: #F8F9FA;
+    border-color: #F8F9FA;
+    color: black;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.footer-registered {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-logo {
+    height: 50px;
+}
+
+.text-registered {
+    color: #707070
+}
